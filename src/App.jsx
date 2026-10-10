@@ -14,9 +14,21 @@ export default function App() {
     return () => window.removeEventListener('popstate', handlePopState);
   }, []);
 
-  // Parse recipient slug from `/thanks/:slug`
+  // Parse recipient slug from query param (?to=slug or ?gift=slug), hash, or pathname
   const getSlugFromPath = (path) => {
-    const match = path.match(/^\/thanks\/([a-z0-9-]+)\/?$/i);
+    try {
+      const urlParams = new URLSearchParams(window.location.search);
+      const qSlug = urlParams.get('to') || urlParams.get('gift') || urlParams.get('name') || urlParams.get('for');
+      if (qSlug) return qSlug.toLowerCase();
+    } catch (e) {}
+
+    const hash = window.location.hash;
+    if (hash) {
+      const hashMatch = hash.match(/(?:thanks\/)?([a-z0-9-]+)\/?$/i);
+      if (hashMatch) return hashMatch[1].toLowerCase();
+    }
+
+    const match = path.match(/(?:thanks\/)?([a-z0-9-]+)\/?$/i);
     return match ? match[1].toLowerCase() : null;
   };
 
