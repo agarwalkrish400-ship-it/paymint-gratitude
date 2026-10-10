@@ -295,7 +295,7 @@ export default function GratitudeExperience({ recipient }) {
                   Made with appreciation. Shared with you personally.
                 </p>
                 <div style={{ marginTop: 6, fontStyle: 'italic', color: '#00F5A0', fontSize: 13, fontWeight: 600 }}>
-                  — Krish Agarwal & Brijen Chauhan, Founders, Paymint
+                  — Krish and Brijen, Founders, Paymint
                 </div>
               </div>
 
