@@ -22,7 +22,7 @@ export default function LetterCard({ recipient }) {
             ✉️
           </div>
           <span style={{ fontSize: 12, fontWeight: 700, letterSpacing: '0.12em', color: '#00F5A0', textTransform: 'uppercase' }}>
-            A Founder's Note From Krish
+            A Founders' Note From Krish & Brijen
           </span>
         </div>
 

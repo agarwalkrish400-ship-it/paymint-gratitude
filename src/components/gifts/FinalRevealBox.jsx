@@ -133,7 +133,7 @@ export default function FinalRevealBox({ recipient }) {
                 }}
               >
                 <div style={{ fontSize: 10, color: '#FBBF24', fontWeight: 700, letterSpacing: '0.1em', marginBottom: 6 }}>
-                  FROM KRISH
+                  FROM KRISH & BRIJEN
                 </div>
                 <p style={{ margin: 0, fontSize: 14, color: '#F4F8F6', lineHeight: 1.6, fontStyle: 'italic' }}>
                   "{recipient.closingSurprise}"

@@ -26,8 +26,8 @@ Having you step in during Paymint's pre-beta testing meant more to me than I can
 People often notice products only when the confetti falls at launch. But the ones who actually shape what it becomes are the friends who test it in the quiet early days. Thank you for being in that circle for Paymint.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -61,8 +61,8 @@ Your willingness to take the time, test the product, and share your perspective 
 Thank you for being so generous with your attention and for walking beside me as Paymint found its early rhythm.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -95,8 +95,8 @@ That's why your involvement during Paymint's pre-beta test meant so much to me. 
 Building is an iterative loop of test, learn, and improve. Having friends like you inside that loop makes the entire endeavor worthwhile.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -128,8 +128,8 @@ You took the time to open Paymint, tap around, test the interactions, and give m
 Thank you for your easygoing support, your time, and for being such a reliable part of this early testing crew. You made this chapter a lot more fun.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -160,8 +160,8 @@ You were part of that second group. Stepping up to test Paymint before it was re
 That behind-the-scenes feedback is what separates an amateur experiment from something that actually lasts. Thank you for your sharp eyes and your time.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -194,8 +194,8 @@ Your willingness to spend time testing Paymint's pre-beta gave me that exact per
 Not every contribution makes loud noise, but the quiet, thoughtful ones are often the ones that anchor a project the deepest. Thank you for being such a meaningful part of this early chapter.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -240,8 +240,8 @@ You opened Paymint without hesitation, clicked through its screens, tested its f
 Thank you for giving Paymint a chance long before the rest of the world sees it. Your support meant everything.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -268,8 +268,8 @@ Having you take part in Paymint's pre-beta testing grounded this project in the 
 Progress isn't just about shipping features on time—it's about the people who walk beside you while you figure things out. Thank you for being there for this one.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -295,8 +295,8 @@ When you took the time to test Paymint during its pre-beta phase, you gave that 
 Small acts of genuine support have a way of echoing far into the future. Thank you for helping Paymint take root during its most formative days.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -328,8 +328,8 @@ You, however, were right there during the testing phase. You took the time to ex
 Being part of a pre-beta test requires patience and good faith. I'm grateful you brought both to the table. Thank you for helping me push Paymint forward through its most critical stage.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -360,8 +360,8 @@ When I invited you to test Paymint, you stepped in with warmth and genuine willi
 This time capsule is a small way of capturing that moment: a reminder that before Paymint belonged to the world, you were here helping me build it. Thank you for your time and encouragement.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   },
 
@@ -387,8 +387,8 @@ Your participation in Paymint's pre-beta test made that whole experience feel we
 That kind of support during the early chapters of an ambitious project is something a founder never forgets. Thank you for being there to test, question, and help Paymint grow.`,
     signOff: {
       salutation: 'With gratitude,',
-      name: 'Krish',
-      title: 'Founder, Paymint'
+      name: 'Krish Agarwal & Brijen Chauhan',
+      title: 'Founders, Paymint'
     }
   }
 };
